@@ -10,4 +10,5 @@ A simple webpage with links to my favorite projects.
 - HTML
 - CSS
 
-
+ 
+<img src="projectLinksImage.png" alt="app screenshot" height=600>
